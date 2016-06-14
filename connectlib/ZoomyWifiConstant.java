@@ -7,6 +7,8 @@ import android.os.Parcelable;
  * Created by csc on 16/6/6.
  */
 public class ZoomyWifiConstant {
+	
+	public static final FUCK="fuckkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk";
     public static final boolean DEBUG = true;
 
     public static final String KEY = "wifi:validate:key";
